@@ -1,14 +1,16 @@
-\# Binary to Seven Segment Display Converter (Verilog)
+##  Binary to Seven Segment Display Converter (Verilog)
 
 
 
-\## Overview
+## Overview
+
+- This project implements a **Binary to Seven Segment Display Converter ** using **Verilog HDL**.
+
+- 
 
 
 
-This project implements a \*\*Binary to Seven Segment Display Converter\*\* using \*\*Verilog HDL\*\*.
-
-The module converts a \*\*4-bit binary input\*\* into the \*\*seven control signals (a–g)\*\* required to drive a seven segment display.
+The module converts a **4-bit binary input\*\* into the **seven control signals (a–g)\*\* required to drive a seven segment display.
 
 
 
